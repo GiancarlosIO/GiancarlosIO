@@ -1,15 +1,15 @@
 _"The most successful dev work smart, not hard."_
 
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://discord.gg/JxCxNyy5" target="_blank">
-  <img align="left" alt="Mr.N | Discord Channel" width="22px" src="assets/discord.svg" />
-</a>
 <a href="https://twitter.com/NexusZGT" target="_blank">
   <img align="left" alt="Giancarlos Isasi (Mr. N) | Twitter" width="22px" src="assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/giancarlos-isasi/" target="_blank">
-  <img align="left" alt="Giancarlos Isasi (Mr. N) | LinkedIN" width="30px"" src="assets/youtube.webp" />
+<a href="https://discord.gg/JxCxNyy5" target="_blank">
+  <img align="left" alt="Mr.N | Discord Channel" width="22px" src="assets/discord.svg" />
 </a>
+<!-- <a href="https://www.linkedin.com/in/giancarlos-isasi/" target="_blank">
+  <img align="left" alt="Giancarlos Isasi (Mr. N) | LinkedIN" width="30px"" src="assets/youtube.webp" />
+</a> -->
 <a href="https://steamcommunity.com/id/NexusZGT/" target="_blank">
   <img align="left" alt="Giancarlos Isasi (Mr. N) | Steam" width="22px" src="assets/steam.svg" />
 </a>

@@ -8,17 +8,15 @@
 <a href="https://www.linkedin.com/in/giancarlos-isasi/" target="_blank">
   <img align="left" alt="Giancarlos Isasi (Mr. N) | LinkedIN" width="30px"" src="assets/youtube.webp" />
 </a>
-<!-- <a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
-  <img align="left" alt="Abhishek's Spotify" width="22px" src="assets/spotify.svg" />
-</a> -->
 <a href="https://steamcommunity.com/id/NexusZGT/" target="_blank">
   <img align="left" alt="Giancarlos Isasi (Mr. N) | Steam" width="22px" src="assets/steam.svg" />
 </a>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=GiancarlosIO.GiancarlosIOMrN)
 
-
-<img align="right" width="300px" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" alt="Image by metinseven">
+<br />
+<br />
+<img align="right" width="20%" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" alt="Image by metinseven">
 
 
 _"The most successful dev work smart, not hard."_
@@ -34,8 +32,23 @@ I have a strong background in:
 I have also experience with server-side languages like ruby and python. Right now I'm learning about
 <a href="https://golang.org/" target="_blank">golang</a>
 
+### My Github Stats
+<img src="https://github-readme-stats.vercel.app/api?username=GiancarlosIO&hide_title=1&theme=tokyonight" alt="Mr. Nexus">
 
-## Interesting Projects that I have
+<img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiancarlosIO&layout=compact&hide_title=1&card_width=300&theme=tokyonight" alt="Top language used in my repos" />
+
+
+<!-- ### Frontend experience in:
+<img src="https://img.shields.io/static/v1?message=react&color=blue">
+
+### Exp Backend with:
+I have also experience with server-side languages like ruby and python. Right now I'm learning about
+<a href="https://golang.org/" target="_blank">golang</a>
+
+### Devops with: -->
+
+
+### Interesting Projects that I have
 * [webpack-nexus](https://github.com/GiancarlosIO/webpack-nexus): A CRA-like CLI to scaffold my personal projects.
 * [xstate-react-calculator](https://github.com/GiancarlosIO/xstate-react-calculator): Calculator build with react and xstate.
 * [nexus-changelog-generator](https://github.com/GiancarlosIO/nexus-changelog-generator): Generate a changelog file with your git commit history.

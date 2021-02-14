@@ -14,8 +14,6 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=GiancarlosIO.GiancarlosIOMrN)
 
-<br />
-<br />
 <img align="right" width="20%" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" alt="Image by metinseven">
 
 

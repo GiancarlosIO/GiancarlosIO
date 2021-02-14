@@ -1,3 +1,5 @@
+_"The most successful dev work smart, not hard."_
+
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://discord.gg/JxCxNyy5" target="_blank">
   <img align="left" alt="Mr.N | Discord Channel" width="22px" src="assets/discord.svg" />
@@ -15,9 +17,6 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=GiancarlosIO.GiancarlosIOMrN)
 
 <img align="right" width="20%" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" alt="Image by metinseven">
-
-
-_"The most successful dev work smart, not hard."_
 
 Hi, I'm **Giancarlos Isasi** <a href="https://mr-nexus.dev/" target="_blank">Mr N</a>, currently working as the Frontend Lead at <a href="https://www.crehana.com/?utm_source=from-mr-n" target="_blank">Crehana</a>.
 

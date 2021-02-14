@@ -24,7 +24,7 @@ I have a strong background in:
 - ⚡ Making the web fast!  by increasing the core website performance metrics (LCP, FID, and CLS, etc) in large react applications.
 - 😃 Improving the developer experience in dev teams! by configuring, creating, and integrating custom javascript toolings needed to generate, run and test javascript. I have a lot of experience with webpack and related tooling used to compile javascript.
 - 🏗️ Creating Scalable Frontend Architectures for large organizations.
-- 🖋️ Writing readability and maintainability Frontend code: My code is not perfect, but in my last years as developer I have found some pattern that help me to write reusable and readability code.
+- 🖋️ Writing readability and maintainability Frontend code: My code is not perfect, but in my last years as a developer, I have found some patterns that help me to write reusable and readable code.
 
 I have also experience with server-side languages like ruby and python. Right now, I'm learning about
 <a href="https://golang.org/" target="_blank">golang</a>.

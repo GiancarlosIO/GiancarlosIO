@@ -47,6 +47,7 @@ I have also experience with server-side languages like ruby and python. Right no
 
 ### Interesting Projects that I have
 * [webpack-nexus](https://github.com/GiancarlosIO/webpack-nexus): A CRA-like CLI to scaffold my personal projects.
+* [go-react-serverless-ssr-boilerplate](https://github.com/GiancarlosIO/go-react-serverles-ssr-boilerplate): A fullstack boilerplate that integrates go, webpack, react and serverless framework.
 * [xstate-react-calculator](https://github.com/GiancarlosIO/xstate-react-calculator): Calculator build with react and xstate.
 * [nexus-changelog-generator](https://github.com/GiancarlosIO/nexus-changelog-generator): Generate a changelog file with your git commit history.
 * [react-apollo-generator](https://github.com/GiancarlosIO/react-apollo-generator): An experimental library that uses graphql-codegen to generate types and react-hooks with support for multiples graphql schemas.

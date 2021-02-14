@@ -29,8 +29,8 @@ I have a strong background in:
 - 🏗️ Creating Scalable Frontend Architectures for large organizations.
 - 🖋️ Writing readability and maintainability Frontend code.
 
-I have also experience with server-side languages like ruby and python. Right now I'm learning about
-<a href="https://golang.org/" target="_blank">golang</a>
+I have also experience with server-side languages like ruby and python. Right now, I'm learning about
+<a href="https://golang.org/" target="_blank">golang</a>.
 
 ### My Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=GiancarlosIO&hide_title=1&theme=tokyonight" alt="Mr. Nexus">

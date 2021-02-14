@@ -25,15 +25,13 @@ _"The most successful dev work smart, not hard."_
 
 Hi, I'm Giancarlos Isasi <a href="https://mr-nexus.dev/" target="_blank">Mr N</a>, currently working as the Frontend Lead at <a href="https://www.crehana.com/?utm_source=from-mr-n" target="_blank">Crehana</a>.
 
-
-I'm a passionate self-taught Frontend Engineer.
 I have a strong background in:
-- ⚡ Making the web fast!  by increasing the mainly website performance metrics (LCP, FID and CLS, etc) in large react applications.
+- ⚡ Making the web fast!  by increasing the core website performance metrics (LCP, FID and CLS, etc) in large react applications.
 - 😃 Improving the developer experience in dev teams! by configuring, creating, and integrating custom javascript toolings needed to generate, run and test javascript. I have a lot of experience with webpack and related tooling used to compile javascript.
 - 🏗️ Creating Scalable Frontend Architectures for large organizations.
 - 🖋️ Writting readability and maintainability Frontend code.
 
-I have also experience with server-side languages like ruby and python, and right now I'm learning about
+I have also experience with server-side languages like ruby and python. Right now I'm learning about
 <a href="https://golang.org/" target="_blank">golang</a>
 
 

@@ -15,7 +15,7 @@
   <img align="left" alt="Giancarlos Isasi (Mr. N) | Steam" width="22px" src="assets/steam.svg" />
 </a>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=giancarlosio.giancarlosio)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=GiancarlosIO.GiancarlosIOMrN)
 
 
 <img align="right" width="300px" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" alt="Image by metinseven">

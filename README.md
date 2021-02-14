@@ -53,4 +53,4 @@ I have also experience with server-side languages like ruby and python. Right no
 * [xstate-react-calculator](https://github.com/GiancarlosIO/xstate-react-calculator): Calculator build with react and xstate.
 * [nexus-changelog-generator](https://github.com/GiancarlosIO/nexus-changelog-generator): Generate a changelog file with your git commit history.
 * [react-apollo-generator](https://github.com/GiancarlosIO/react-apollo-generator): An experimental library that uses graphql-codegen to generate types and react-hooks with support for multiples graphql schemas.
-* [gorainbow](https://github.com/GiancarlosIO/gorainbow): Go package to get a rainbow string ready to print it to the console.
+* [gorainbow](https://github.com/GiancarlosIO/gorainbow): Go package to get a rainbow string ready to print it to the terminal.

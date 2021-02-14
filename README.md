@@ -23,7 +23,7 @@
 
 _"The most successful dev work smart, not hard."_
 
-Hi, I'm Giancarlos Isasi <a href="https://mr-nexus.dev/" target="_blank">Mr N</a>, currently working as the Frontend Lead at <a href="https://www.crehana.com/?utm_source=from-mr-n" target="_blank">Crehana</a>.
+Hi, I'm **Giancarlos Isasi** <a href="https://mr-nexus.dev/" target="_blank">Mr N</a>, currently working as the Frontend Lead at <a href="https://www.crehana.com/?utm_source=from-mr-n" target="_blank">Crehana</a>.
 
 I have a strong background in:
 - ⚡ Making the web fast!  by increasing the core website performance metrics (LCP, FID and CLS, etc) in large react applications.
@@ -35,3 +35,9 @@ I have also experience with server-side languages like ruby and python. Right no
 <a href="https://golang.org/" target="_blank">golang</a>
 
 
+## Interesting Projects that I have
+* [webpack-nexus](https://github.com/GiancarlosIO/webpack-nexus): A CRA-like CLI to scaffold my personal projects.
+* [xstate-react-calculator](https://github.com/GiancarlosIO/xstate-react-calculator): Calculator build with react and xstate.
+* [nexus-changelog-generator](https://github.com/GiancarlosIO/nexus-changelog-generator): Generate a changelog file with your git commit history.
+* [react-apollo-generator](https://github.com/GiancarlosIO/react-apollo-generator): An experimental library that uses graphql-codegen to generate types and react-hooks with support for multiples graphql schemas.
+* [gorainbow](https://github.com/GiancarlosIO/gorainbow): Go package to get a rainbow string ready to print it to the console.

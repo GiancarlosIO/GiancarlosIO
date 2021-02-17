@@ -18,7 +18,7 @@ _"The most successful dev work smart, not hard."_
 
 <img align="right" width="20%" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" alt="Image by metinseven">
 
-Hi, I'm **Giancarlos Isasi** (<a href="https://mr-nexus.com/" target="_blank">Mr N</a>), currently working as the Frontend Lead at <a href="https://www.crehana.com/?utm_source=from-mr-n" target="_blank">Crehana</a>.
+Hi, I'm **Giancarlos Isasi** (<a href="https://mr-nexus.com/" target="_blank">Mr N</a>), a javascript engineer currently working as the Frontend Lead at <a href="https://www.crehana.com/?utm_source=from-mr-n" target="_blank">Crehana</a>.
 
 I have a strong background in:
 - ⚡ Making the web fast!  by increasing the core website performance metrics (LCP, FID, and CLS, etc) in large react applications.

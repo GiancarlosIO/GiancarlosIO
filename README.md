@@ -22,7 +22,7 @@ Hi, I'm **Giancarlos Isasi** (<a href="https://mr-nexus.com/" target="_blank">Mr
 
 I have a strong background in:
 - ⚡ Making the web fast!  by increasing the core website performance metrics (LCP, FID, and CLS, etc) in large react applications.
-- 😃 Improving the developer experience! by configuring, creating, and integrating custom javascript toolings needed to generate, run and test javascript. I have also created custom cli, scripts or libraries to automatize common project tasks.
+- 😃 Improving the developer experience! by configuring, creating, and integrating custom javascript toolings needed to generate, run and test javascript. I have also created custom cli, scripts, generators and libraries to automatize common project tasks.
 - 🏗️ Creating Scalable Frontend Architectures for large organizations.
 - 🖋️ Writing readability and maintainability Frontend code: My code is not perfect, but in my last years as a developer, I have found some patterns that help me to write reusable and readable code.
 

@@ -47,6 +47,8 @@ I have also experience with server-side languages like ruby and python. Right no
 
 ### Interesting Projects that I have
 * [webpack-nexus](https://github.com/GiancarlosIO/webpack-nexus): A CRA-like CLI to scaffold my personal projects.
+* [english-typing-learning](https://github.com/GiancarlosIO/english-typing-learning): A simple app to improve your typing skills while you practice english vocab for gre/toefl/ielts etc.
+* [generate-next-app](https://github.com/GiancarlosIO/generate-next-app): Just a wrapper on top of create-next-app cli to create nextjs applications with my own custom packages and configurations
 * [go-react-serverless-ssr-boilerplate](https://github.com/GiancarlosIO/go-react-serverles-ssr-boilerplate): A fullstack boilerplate that integrates go, webpack, react and serverless framework.
 * [xstate-react-calculator](https://github.com/GiancarlosIO/xstate-react-calculator): Calculator build with react and xstate.
 * [generate-index-file](https://github.com/GiancarlosIO/generate-index-file): A CLI to generate a index.ts file with the exported-values from a list of files or folders.
